@@ -23,11 +23,11 @@ table 4-1
 ! - Not && and || or
 
 |Unicode Value|Character|Unicode Value|Character|Unicode Value|Character|Unicode Value|Character|
-|--|--|--|--|--|--|--|--|
+|---|---|---|---|---|---|---|---|
 |32|''|61|=|81|Q|105|i|
 |33|!|62|>|82|R|106|j|
 |34|"|65|A|83|S|107|k|
-|42|*|66|B|84|T|108|l|
+|42|\*|66|B|84|T|108|l|
 |43|+|67|C|85|U|109|m|
 |45|-|68|D|86|V|110|n|
 |47|/|69|E|87|W|111|o|
@@ -45,8 +45,9 @@ table 4-1
 
 
 
+--
+##Example:
 
-Example:
 |Expression |Value of Expression| Explaination|
 |---|---|---|
 |'' < 'a' | True|'' = 32, value of 'a' = 97.|
